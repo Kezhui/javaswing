@@ -61,6 +61,7 @@ public class Login extends javax.swing.JFrame {
         this.dispose();
         JanelaPrincipal mainFrame = new JanelaPrincipal();
         mainFrame.setVisible(true);
+        //teste;
     }//GEN-LAST:event_btnLoginActionPerformed
 
     /**
